@@ -1,2 +1,0 @@
-# MoodMatch
-Initial setup
